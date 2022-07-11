@@ -1,2 +1,2 @@
-# generate-pdf-using-jsPDF
+# Generate-pdf-using-jsPDF
 Created with CodeSandbox
